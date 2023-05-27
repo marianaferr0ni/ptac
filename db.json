@@ -1,0 +1,40 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Kakau",
+      "num_inscricao": 1003,
+      "curso": "Direito"
+    },
+    {
+      "id": 2,
+      "nome": "Lucca",
+      "num_inscricao": 1004,
+      "curso": "Medicina"
+    },
+    {
+      "id": 3,
+      "nome": "Mari",
+      "num_inscricao": 1005,
+      "curso": "Direito"
+    },
+    {
+      "id": 4,
+      "nome": "WilWil",
+      "num_inscricao": 1006,
+      "curso": "Análise de Sistemas"
+    },
+    {
+      "id": 5,
+      "nome": "Marcelino",
+      "num_inscricao": 1007,
+      "curso": "Professor de adolescente"
+    },
+    {
+      "nome": "mariana",
+      "curso": "informatica",
+      "num_inscricao": "1234",
+      "id": 8
+    }
+  ]
+}

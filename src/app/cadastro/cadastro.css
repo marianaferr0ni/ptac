@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+form{
+    color: white;
+    text-align: center;
+}
+div#formu{
+    margin-top: 1%;
+    padding-top: 15%;
+    padding-bottom: 17%;
+    border-top: 1px solid #39ff14;
+    border-bottom: 1px solid #39ff14;
+    text-align: center;
+}
+input{
+    width: 30%;
+    height: 30px;
+    border: 1px solid #39ff14;
+    color: #39ff14;
+    background-color: black;
+}
+div#botoes input{
+    width: 15%;
+    border: 1px solid #39ff14;
+    color: #39ff14;
+    background-color: black;
+    height: 30px;
+    text-decoration: none;
+}
+div#botoes a{
+    width: 15%;
+    border: 1px solid #39ff14;
+    color: #39ff14;
+    background-color: black;
+    height: 30px;
+    text-decoration: none;
+}
+h1{
+    color:#39ff14;
+}
+a#cancelar{
+    padding: 5px 115px 5px 115px;
+    border: 1px solid #39ff14;
+    color: #39ff14;
+    background-color: black;
+    text-decoration: none;
+}
